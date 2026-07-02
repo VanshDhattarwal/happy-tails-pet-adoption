@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+}
+
+/* NAVBAR */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background: rgba(0,0,0,0.7);
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+    color: #00ffcc;
+    border-bottom: 2px solid #00ffcc;
+}
+
+/* FAQ SECTION */
+.faq-section {
+    padding: 50px;
+    text-align: center;
+}
+
+.faq-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.faq {
+    background: #1e293b;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.faq h3 {
+    margin: 0;
+    color: #00ffcc;
+}
+
+/* FORM */
+.ask-box {
+    margin-top: 50px;
+    background: #111827;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ask-box input,
+.ask-box textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+}
+
+.ask-box textarea {
+    height: 120px;
+    resize: none;
+}
+
+.ask-box button {
+    background: #00ffcc;
+    border: none;
+    padding: 12px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.ask-box button:hover {
+    background: #00ccaa;
+}
