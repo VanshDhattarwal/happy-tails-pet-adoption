@@ -96,7 +96,31 @@ Planned features include:
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+## 📸 Project Preview
+
+### 🏠 Home Page
+
+![Home Page](assets/home.png)
+
+### 📖 About Page
+
+![About Page](assets/about.png)
+
+### 🐾 Explore Page
+
+![Explore Page](assets/explore.png)
+
+### ❤️ Adoption Page
+
+![Adoption Page](assets/adopt.png)
+
+### 📞 Contact Page
+
+![Contact Page](assets/contact.png)
+
+### ❓ FAQ Pages
+
+![FAQ Page](assets/FAQ.png)
 
 ---
 
