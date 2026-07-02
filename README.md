@@ -98,31 +98,43 @@ Planned features include:
 
 ## 📸 Project Preview
 
+## 📸 Project Preview
+
 ### 🏠 Home Page
 
-![Home Page](assets/home.png)
+![Home Page](assets/home.jpg)
+
+---
 
 ### 📖 About Page
 
-![About Page](assets/about.png)
+![About Page](assets/about.jpg)
 
-### 🐾 Explore Page
+---
 
-![Explore Page](assets/dog.png)
+### 🐶 Explore Pets Page
+
+![Explore Pets](assets/explore.jpg)
+
+---
 
 ### ❤️ Adoption Page
 
-![Adoption Page](assets/adopt.png)
+![Adoption Page](assets/adopt.jpg)
+
+---
 
 ### 📞 Contact Page
 
-![Contact Page](assets/contact.png)
-
-### ❓ FAQ Pages
-
-![FAQ Page](assets/FAQ.png)
+![Contact Page](assets/contact.jpg)
 
 ---
+
+### ❓ FAQ Page
+
+![FAQ Page](assets/faq.jpg)
+
+
 
 ## 🌐 Live Demo
 
