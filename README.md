@@ -108,7 +108,7 @@ Planned features include:
 
 ### 🐾 Explore Page
 
-![Explore Page](assets/explore.png)
+![Explore Page](assets/dog.png)
 
 ### ❤️ Adoption Page
 
